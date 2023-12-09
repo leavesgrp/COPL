@@ -1,0 +1,19 @@
+INPUT FILE NAME  :    example
+NUMBER OF ROWS   :          3
+NUMBER OF COLUMNS:          2
+SOLUTION STATUS  :    optimal
+
+ROWS
+----
+ order  name     type lower         active        upper         dual value   
+ 1      r1        LE  -infinity     +2.760000e+002 +3.600000e+002 +0.000000e+000
+ 2      r2        LE  -infinity     +2.000000e+002 +2.000000e+002 -1.360000e+000
+ 3      r3        LE  -infinity     +3.000000e+002 +3.000000e+002 -5.200000e-001
+
+COLUMNS
+-------
+ order  name     type lower         active        upper         dual slack   
+ 1      x01       BO  +1.000000e+000 +2.000000e+001 +1.000000e+002 +4.440892e-016
+ 2      x02       BO  +1.000000e+000 +2.400000e+001 +1.000000e+002 +8.881784e-016
+
+------------------------------------ EOF ------------------------------------

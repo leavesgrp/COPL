@@ -1,0 +1,1 @@
+gcc coplbasi.c coplcrus.c copldens.c coplhash.c coplhomo.c coplmain.c coplmemo.c coplmpsf.c coplopti.c coplpara.c coplpres.c coplpsub.c coplshut.c coplouta.c coplstac.c Dmatrix.c  Dmemory.c  Dmmdpro.c  Dnumfac.c  Dprique.c  Dvector.c  Xbasics.c  Xclean.c   Xcross.c   Xdual.c  Xlubasi.c  Xlufact.c  Xlusolv.c  Xprimal.c  Xsimplx.c Zldpnt.c -o opt.exe
